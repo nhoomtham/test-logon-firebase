@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "677971103379",
+    "firebase_url": "https://ananda-cloud.firebaseio.com",
+    "project_id": "ananda-cloud",
+    "storage_bucket": "ananda-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677971103379:android:f54ead4d4dbedfb4",
+        "android_client_info": {
+          "package_name": "com.gopomelo.demo.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677971103379-gpm75nrps5fj9mslslunddrhuf50lpfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcTcO1KjWffXWIIa0mUmQ3_C2V0V_z0mE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
