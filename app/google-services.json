@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "677971103379",
-    "firebase_url": "https://ananda-cloud.firebaseio.com",
-    "project_id": "ananda-cloud",
-    "storage_bucket": "ananda-cloud.appspot.com"
+    "firebase_url": "https://ananda-cloud-proj.firebaseio.com",
+    "project_id": "ananda-cloud-proj",
+    "storage_bucket": "ananda-cloud-proj.appspot.com"
   },
   "client": [
     {
